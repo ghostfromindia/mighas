@@ -1,0 +1,17 @@
+{
+    "name": "spiderworks/menu",
+    "description": "Wordpress like menu for laravel",
+    "authors": [
+        {
+            "name": "Sobha Sudheesh",
+            "email": "sobha@spiderworks.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Spiderworks\\Menu\\": "src/"
+        }
+    }
+}
